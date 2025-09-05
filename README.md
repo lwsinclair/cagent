@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/dgageot-cagent-badge.png)](https://mseep.ai/app/dgageot-cagent)
+
 # 🤖 `cagent` 🤖
 
 > A powerful, customizable multi-agent system that orchestrates AI agents with
